@@ -1,0 +1,1 @@
+puts "yeah! first script!"
